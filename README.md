@@ -2,6 +2,8 @@ Hola! ✌🏼
 
 myself, Revanth Reddy 🙂 
 
-im currently a student in PES university,bengaluru
+currently a student in PES university,bengaluru
+
+Research and development intern @Slanglabs
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rev-x)
