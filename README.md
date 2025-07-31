@@ -5,5 +5,6 @@ myself, Revanth Reddy 🙂
 currently a student in PES university,bengaluru
 
 former Machine Learning Research and development intern @Slanglabs
+former ML Engineer @Slanglabs
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rev-x)
+Current ML Engineer @EvamLabs - Propheus
